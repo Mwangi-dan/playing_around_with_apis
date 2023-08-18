@@ -23,5 +23,5 @@ The API endpoints are:
 
 # Acknowledgements
 - [OpenWeb Ninja](https://rapidapi.com/user/letscrape-6bRBa3QguO5)
-Accesed through RapidAPI [platform](https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-finance-data)
+Accesed through [RapidAPI](https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-finance-data) platform
 
