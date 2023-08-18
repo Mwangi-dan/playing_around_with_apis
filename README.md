@@ -22,6 +22,6 @@ The API endpoints are:
 - Currency News 
 
 # Acknowledgements
--[OpenWeb Ninja](https://rapidapi.com/user/letscrape-6bRBa3QguO5)
+- [OpenWeb Ninja](https://rapidapi.com/user/letscrape-6bRBa3QguO5)
 Accesed through RapidAPI platform[https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-finance-data]
 
