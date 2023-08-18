@@ -1,0 +1,151 @@
+{
+    "status": "OK",
+    "request_id": "a414eaa0-5ae7-4dd6-83f8-aa1ecdbe9ef7",
+    "data": {
+        "from_symbol": "USD",
+        "to_symbol": "EUR",
+        "type": "currency",
+        "news": [
+            {
+                "article_title": "EUR/USD Forecast: Sellers retain control ahead of US data",
+                "article_url": "https://www.fxstreet.com/analysis/eur-usd-forecast-sellers-retain-control-ahead-of-us-data-202308170848",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSleNY6L-ZFtKY0q9eowH25S-Kem6YBy3YQm9t-zsxbwRMDOyNBPybEUkeVqk",
+                "source": "FXStreet",
+                "post_time_utc": "2023-08-17 09:26:02"
+            },
+            {
+                "article_title": "EUR/USD Price Forecast: Euro Under Pressure on Stout US Economic Data",
+                "article_url": "https://www.dailyfx.com/news/forex-eur-usd-price-forecast-euro-under-pressure-on-stout-us-economic-data-wv-20230816.html",
+                "article_photo_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8vbMudw4L5eDBYdtgBkitB446C_vw8SNm_Nvcw5o-zoZmxJcCfAAeu8GQ-ng",
+                "source": "DailyFX",
+                "post_time_utc": "2023-08-16 14:30:46"
+            },
+            {
+                "article_title": "US Dollar Price Action Setups: EUR/USD, USD/JPY, Gold, GBP/USD, USD/CHF",
+                "article_url": "https://www.forex.com/en-us/news-and-analysis/usd-us-dollar-price-action-setups-eurusd-usdjpy-gold-gbpusd-15-08-23/",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV8pyKK9VkdOy1QmWJA6WfsMtd1pi8gZPOr56tP59xqVZZyGeh2zNN5cg9jA",
+                "source": "Forex.com",
+                "post_time_utc": "2023-08-15 19:58:03"
+            },
+            {
+                "article_title": "EUR/USD falls to session low as Treasury yields creep higher",
+                "article_url": "https://www.forexlive.com/news/eurusd-falls-to-session-low-as-treasury-yields-creep-higher-20230816/",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSy9OffFG-FCML6wlcSRPBTk9I1h7A6JoUksCtZQFmEOVwUYywimVy0zwSpNCE",
+                "source": "Forexlive",
+                "post_time_utc": "2023-08-16 17:01:00"
+            },
+            {
+                "article_title": "EUR/USD loses momentum below the 1.0870 area, a multi-week low ahead of US \nInitial Jobless Claims",
+                "article_url": "https://www.fxstreet.com/news/eur-usd-loses-momentum-below-the-10870-area-a-multi-week-low-ahead-of-us-initial-jobless-claims-202308170406",
+                "article_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6DQQt9BtLWSwrsJu-uF9aPNTvY8xptNjTIxwSeIHK8ZV9OI9f5FBLXi1ZOZk",
+                "source": "FXStreet",
+                "post_time_utc": "2023-08-17 04:06:53"
+            },
+            {
+                "article_title": "Euro Ahead of Euro Area GDP, FOMC Minutes: EUR/USD, EUR/AUD, EUR/GBP Price \nSetups",
+                "article_url": "https://www.dailyfx.com/news/euro-ahead-of-euro-area-gdp-fomc-minutes-eur-usd-eur-aud-eur-gbp-price-setups-20230816.html",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQP3ve5ELeOnOMLY6Cv4lDEQNg4DvnXwZeNM7UEFab9QdizzcBXT5S1pJKlj4",
+                "source": "DailyFX",
+                "post_time_utc": "2023-08-16 03:30:00"
+            },
+            {
+                "article_title": "Euro to US dollar analysis EURUSD rebounds but downtrend prevails",
+                "article_url": "https://www.forex.com/en/market-analysis/latest-research/euro-to-us-dollar-analysis-eurusd-rebounds-but-downtrend-prevails/",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYjDk5y1WtB0r_CGrzdgL7PKW18zRgk7mxhDqgdMQAEN_kD85s8meiMhWLXg",
+                "source": "Forex.com",
+                "post_time_utc": "2023-08-16 11:28:10"
+            },
+            {
+                "article_title": "EUR/USD: Euro remains under mild pressures",
+                "article_url": "https://www.fxstreet.com/analysis/eur-usd-euro-remains-under-mild-pressures-202308170835",
+                "article_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhPU3CLu0sAW_Vd6OaW6d_UNINKkucFdIviFoaoR_2ncLeVCJKJ4p3bBhe8k",
+                "source": "FXStreet",
+                "post_time_utc": "2023-08-17 08:36:33"
+            },
+            {
+                "article_title": "EUR/USD Forecast \u2013 Euro Continues to Find Buyers",
+                "article_url": "https://finance.yahoo.com/news/eur-usd-forecast-euro-continues-133059186.html",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE80VJ8W570zL7A-2ZioSJtn-WmwTtOqQEAhBCPn5rW2IdHn3_1CAKB0aqQY4",
+                "source": "Yahoo Finance",
+                "post_time_utc": "2023-08-15 13:30:59"
+            },
+            {
+                "article_title": "EUR/USD: Euro Cracks Key Supports after Overall Hawkish Fed Minutes",
+                "article_url": "https://www.actionforex.com/contributors/technical-analysis/514713-eur-usd-euro-cracks-key-supports-after-overall-hawkish-fed-minutes/",
+                "article_photo_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpRllbAT3_Msk3PwesvLJhOqk7bq6BES2GW7InORtRngNCQr86upHBERov9wY",
+                "source": "Action Forex",
+                "post_time_utc": "2023-08-17 08:11:04"
+            },
+            {
+                "article_title": "EUR/USD: Bears Reach July 6 High - What's Next? | investing.com",
+                "article_url": "https://www.investing.com/analysis/eurusd-bears-reach-july-6-high--whats-next-200640974",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9wt9xo-lLFu5kbIh5oLWIK9tNMogy89Dmxf3qzb7pxog4Zi6rAES6gNodvG0",
+                "source": "Investing.com",
+                "post_time_utc": "2023-08-15 13:33:00"
+            },
+            {
+                "article_title": "Key trading levels: AUD/USD, EUR/USD, GBP/USD, other currencies, Gold and \nS&P 500 [Video]",
+                "article_url": "https://www.fxstreet.com/analysis/key-trading-levels-aud-usd-eur-usd-gbp-usd-other-currencies-gold-and-sp-500-video-202308160218",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx_pk0lPlQBFcVyhhUzp_M741JvmSP9yX5oonWjV7M0kIVpEagBsqUJKgW5BU",
+                "source": "FXStreet",
+                "post_time_utc": "2023-08-16 02:19:11"
+            },
+            {
+                "article_title": "EUR/USD, GBP/USD, USD/CAD, USD/JPY Forecast \u2013 U.S. Dollar Moves Closer To \nMulti-Week Highs",
+                "article_url": "https://www.fxempire.com/forecasts/article/eur-usd-gbp-usd-usd-cad-usd-jpy-forecast-u-s-dollar-moves-closer-to-multi-week-highs-1368570",
+                "article_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoslu68ftlHMwfMWoq9Om_y_6KGOIDG0HYG-wu0S0_dcS8yzUh1L2BbFXGqk",
+                "source": "FX Empire",
+                "post_time_utc": "2023-08-16 16:34:00"
+            },
+            {
+                "article_title": "EUR/USD: Euro remains on defensive mode",
+                "article_url": "https://www.fxstreet.com/analysis/eur-usd-euro-remains-on-defensive-mode-202308150821",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKf_4muxtlNKh7mHz5FdclgZGlZbsBtPjADBCO3v_6O4CJxV5wb2o7oiLY23w",
+                "source": "FXStreet",
+                "post_time_utc": "2023-08-15 08:21:51"
+            },
+            {
+                "article_title": "EUR/USD: Euro Slides to 100-Day Moving Average Despite Cooling US Inflation",
+                "article_url": "https://www.tradingview.com/news/tradingview:2d583fd90094b:0-eur-usd-euro-slides-to-100-day-moving-average-despite-cooling-us-inflation/",
+                "article_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpetTJ2mTKZMEY1VSvhB7C5QK32Ny1GSz3wgBOO_k9ZNX5FLoeXk5NR3wppM4",
+                "source": "TradingView",
+                "post_time_utc": "2023-08-14 11:28:22"
+            },
+            {
+                "article_title": "Euro Price Outlook: USD Wedge Breakout, EUR/USD Trendline Breach",
+                "article_url": "https://www.forexfactory.com/news/1235921-euro-price-outlook-usd-wedge-breakout-eurusd-trendline",
+                "article_photo_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSco2fhyA1l-M8v8jOK2Qbbkh4NkjnMoSf-7KEkNVAjuuddPx12aK_BzwbG-F8",
+                "source": "Forex Factory",
+                "post_time_utc": "2023-08-14 22:24:00"
+            },
+            {
+                "article_title": "British Pound Ahead of UK CPI: GBP/USD, EUR/GBP, GBP/JPY Price Action",
+                "article_url": "https://www.dailyfx.com/news/british-pound-ahead-of-uk-cpi-gbp-usd-eur-gbp-gbp-jpy-price-action-20230718.html",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSu0PLXiESY8Ik60Y19KQwJ_Y5WKjqV_woZh_I2QdoRzafB7w5Kh0uif2KQycU",
+                "source": "DailyFX",
+                "post_time_utc": "2023-07-18 07:00:00"
+            },
+            {
+                "article_title": "Euro Price Action Setups: EUR/USD, EUR/GBP, EUR/JPY",
+                "article_url": "https://www.dailyfx.com/news/euro-price-action-setups-eur-usd-eur-gbp-eur-jpy-20230801.html",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJeJX_Wdxu-09cXsizIBaqRXL1jfMI00EBGyC-Z0vrUqA6jP7fGlGo66nx_do",
+                "source": "DailyFX",
+                "post_time_utc": "2023-08-01 07:00:00"
+            },
+            {
+                "article_title": "British Pound Could Stage a Rebound: GBP/USD, EUR/GBP, GBP/JPY Price Setups \nAfter BOE",
+                "article_url": "https://www.dailyfx.com/news/british-pound-could-stage-a-rebound-gbp-usd-eur-gbp-gbp-jpy-price-setups-after-boe-20230804.html",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZDTnXlPgn-GWoj0Cnpt3BzkOWmRvI1XSAnZMUaWx7lLoHKO69mzMfL9zZg3E",
+                "source": "DailyFX",
+                "post_time_utc": "2023-08-04 07:00:00"
+            },
+            {
+                "article_title": "US Dollar Scenarios Ahead of Fed Rate Decision: EUR/USD, GBP/USD, USD/JPY \nPrice Setups",
+                "article_url": "https://www.dailyfx.com/news/us-dollar-scenarios-ahead-of-fed-rate-decision-eur-usd-gbp-usd-usd-jpy-price-setups-20230726.html",
+                "article_photo_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQidpO-RFbLD6FPQbuXdGm1cMOrmi5WgSHgk7nOMTIl2Tl8R4TSvNeAr7USees",
+                "source": "DailyFX",
+                "post_time_utc": "2023-07-26 07:00:00"
+            }
+        ]
+    }
+}

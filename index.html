@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Financial Market News</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="hero">
+            <header>
+                <nav>
+                    <a href="index.html">Home</a>
+                    <a href="#news">News</a>
+                    <a href="live.html">Live</a>
+                </nav>    
+            </header>
+            <div class="description headline">
+                <h1>Navigating the Markets</h1>
+            </div>
+            <div class="description">
+                <p>Stay informed about the dynamic 
+                    world of currency trading. With this intuitive 
+                    interface, accessing the most up-to-date 
+                    news on currency pairs and financial 
+                    markets has never been easier.</p>
+            </div>
+        </div>
+        <div class="container"></div>
+            
+            
+            <form id="userForm">
+                <label for="selectOption">Select a currency pair:</label>
+                <select id="selectOption1" name="selectOption" class="selectedOption">
+                    <option value="USD" selected="selected">USD</option>
+                    <option value="GBP">GBP</option>
+                    <option value="EUR">EUR</option>
+                </select>
+                <select id="selectOption2" name="selectOption" class="selectedOption">
+                    <option value="USD">USD</option>
+                    <option value="GBP">GBP</option>
+                    <option value="EUR" selected="selected">EUR</option>
+                </select>
+                <button type="submit" class="submitButton">Submit</button>
+            </form>
+
+            <div class="title-c">
+                <h2>Latest News: <span class="cpair"></span></h2>
+            </div>
+            <a href="#news"></a>
+            <div id="news-container" class="news-container"></div>
+            <script src="script.js"></script>
+        </div>
+        <footer id="footer">
+            <a href="https://www.linkedin.com/in/daniel-mwangi-68490a236/"><img src="images/pngwing.com.png"></a>
+            <p>Created by <a href="https://www.linkedin.com/in/daniel-mwangi-68490a236/">Daniel Ndungu</a>
+        </footer>
+    </div>
+    
+</body>
+</html>
